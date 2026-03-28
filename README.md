@@ -42,5 +42,3 @@ Due to API restrictions, the app **cannot be deployed on live servers** (like Ne
 
 3. Run using Live Server
    (VS Code Extension recommended)
-
----
